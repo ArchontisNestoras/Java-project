@@ -1,0 +1,8 @@
+https://github.com/knowm/XChart
+
+Examples
+https://github.com/knowm/XChart/tree/develop/xchart-demo/src/main/java/org/knowm/xchart/demo/charts
+
+Download non-maven
+  http://knowm.org/open-source/xchart/xchart-change-log
+  
